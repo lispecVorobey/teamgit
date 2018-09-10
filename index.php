@@ -7,3 +7,4 @@
  */
 
 var_dump('hello world');
+echo 2 + 2;
